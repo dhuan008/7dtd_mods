@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="ST100_Compass" />
+		<Description value="Adds more info to the compass, based on stedman420's simple compass mod" />
+		<Author value="ST100" />
+		<Version value="1.0" />
+	</ModInfo>
+</xml>
