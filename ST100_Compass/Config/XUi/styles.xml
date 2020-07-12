@@ -1,0 +1,14 @@
+<configs>
+	
+	<append xpath="/styles">
+
+		<!-- infopanel.window : Style for day, time, world temperature and elevation window -->
+		<style name="infopanel.window" type="window">
+			<style_entry name="pos" value="9,50"/> <!-- 50 for vertical position to hide the waypoints from the screen as they seem to be hardcoded into the CompassWindow-controller -->
+			<style_entry name="size" value="300,80"/>
+			<style_entry name="anchor" value="LeftTop"/>
+		</style>
+
+	</append>
+
+</configs>

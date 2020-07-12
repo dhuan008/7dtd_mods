@@ -2,8 +2,8 @@
 <xml>
 	<ModInfo>
 		<Name value="ST100_Compass" />
-		<Description value="Adds more info to the compass, based on stedman420's simple compass mod" />
+		<Description value="Adds more info to the compass, based on stedman420's simple compass mod and Tritox's origin mod" />
 		<Author value="ST100" />
-		<Version value="1.0" />
+		<Version value="1.01" />
 	</ModInfo>
 </xml>

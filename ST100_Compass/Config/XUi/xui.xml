@@ -1,0 +1,8 @@
+<configs>
+
+	<!-- HUD Info Panel -->
+	<append xpath="/xui/ruleset[@name='default']/window_group[@name='compass']">
+		<window name="HUDInfoPanel" />
+	</append>
+
+</configs>
